@@ -1,0 +1,36 @@
+# Build directories
+Debug/
+Release/
+
+# IDE specific files
+.metadata/
+.settings/
+.project
+.cproject
+
+# Object files
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.su
+*.cyclo
+*.d
+
+# Temporary files
+*~
+*.tmp
+*.bak
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# STM32CubeIDE specific
+*.launch
+
+# Keep only essential project files
+# Core source code, drivers, and configuration files are tracked
