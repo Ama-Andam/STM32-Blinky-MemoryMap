@@ -65,7 +65,7 @@ This project directly manipulates:
 
 ## Comparison
 
-For a comparison using high-level HAL functions, check out the companion repository: [STM32-Blinky-HAL](link-to-be-added)
+For a comparison using high-level HAL functions, check out the companion repository: [STM32-Blinky-HAL](https://github.com/Ama-Andam/STM32-Blinky-HAL)
 
 This approach helps understand what happens "under the hood" when using HAL functions.
 
