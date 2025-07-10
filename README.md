@@ -61,7 +61,7 @@ This project directly manipulates:
 
 ## Demo
 
-*Demo video will be uploaded after initial push*
+Youtube video: https://youtu.be/269zvtMcr_E
 
 ## Comparison
 
